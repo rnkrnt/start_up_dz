@@ -5,3 +5,4 @@ def py_pycharm_function():
 
 def test_2_py_pycharm_function():
     print("Commit 12. test_2, create test_2_py_pycharm_function")
+    print("Commit 13. test_2, change test_2_py_pycharm_function")
