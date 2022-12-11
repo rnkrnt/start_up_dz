@@ -1,0 +1,5 @@
+2022-12-11 20:26:25,594 - exampleApp - INFO - Program started
+2022-12-11 20:26:25,596 - exampleApp.dz_15_1 - INFO - exampleApp.dz_15_1.server_started
+2022-12-11 20:26:53,956 - exampleApp.dz_15_1 - WARNING - Different encoding for server and client messages
+2022-12-11 20:27:11,209 - exampleApp.dz_15_1 - ERROR - Connection error: Client disconnected
+2022-12-11 20:27:11,209 - exampleApp - INFO - Done!
